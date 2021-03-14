@@ -1,0 +1,77 @@
+
+body {background-color: ;width: 1200px;height: 100%;
+}
+
+h1, h5 {
+    text-align: center;
+            }
+div.Gender{text-align: center;}
+#fuck{width: 1500px; 
+    background-image:url(military.jpg);
+    height: 400px;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    }
+    .upperbody{
+        background-image: url(Sun.jpg);
+    }
+
+    <!------comment out ------>
+a {
+    color: blue;
+    background-color: white;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: violet;
+    background-color: transparent;
+}  
+  a:active{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:active{
+    color: rgb(196, 43, 43);
+    text-decoration: none;
+}
+
+/* Float */
+
+*{box-sizing:border-box
+}
+header h2 {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+nav ul {
+
+    list-style-type: none;
+    padding: 0px;
+}
+
+article  {
+    float: left;
+    width: 30%;
+    padding: 50px;
+    height: 300px;
+}
+nav ul {
+   list-style: none;
+   padding: 0px;
+}
+section::after {
+    content: "";
+    display: table;
+    clear: both;
+
+footer {
+    float: left;
+}
+]
